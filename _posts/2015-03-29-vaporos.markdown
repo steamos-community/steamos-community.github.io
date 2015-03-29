@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "VaporOS"
+image:  "images/vaporosbanner.png"
+externalurl: "http://vaporos.net"
+categories: release
+---
+
+VaporOS is a SteamOS derivative with many changes focused on making a more complete media center experience, including many extra packages such as Kodi.
