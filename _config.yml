@@ -2,9 +2,6 @@
 title: SteamOS Community
 email: directhex@apebox.org
 description: "The community hub for forks, modifications, and variants of Valve's SteamOS"
-baseurl: ""
-url: "http://steamoscommunity.org"
-#twitter_username: ""
 github_username:  steamos-community
 
 # Build settings
